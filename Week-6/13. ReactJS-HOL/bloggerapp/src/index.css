@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background: #f4f4f4;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px gray;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid gray;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+}
